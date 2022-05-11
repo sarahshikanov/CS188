@@ -137,10 +137,8 @@ def findModelCheck() -> Dict[Any, bool]:
         def __repr__(self):
             return self.variable_name
     "*** BEGIN YOUR CODE HERE ***"
-
     return {dummyClass('a') :True}
-    
-
+ 
     "*** END YOUR CODE HERE ***"
 
 def entails(premise: Expr, conclusion: Expr) -> bool:

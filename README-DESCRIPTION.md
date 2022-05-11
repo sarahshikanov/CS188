@@ -1,4 +1,3 @@
-Description
 This course will introduce the basic ideas and techniques 
 underlying the design of intelligent computer systems. 
 A specific emphasis will be on the statistical and decision-theoretic modeling paradigm.
